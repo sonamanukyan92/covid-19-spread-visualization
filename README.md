@@ -1,3 +1,3 @@
 # covid-19-spread-visualization
 covid visualization
-[Covid Spread Animation](file:///C:/Users/Sona/OneDrive/Desktop/viz/file.html)
+[Covid Spread Animation](https://github.com/sonamanukyan92/covid-19-spread-visualization/blob/main/file.html)
